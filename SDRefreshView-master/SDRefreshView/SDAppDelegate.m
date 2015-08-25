@@ -6,6 +6,8 @@
 //  Copyright (c) 2015年 GSD. All rights reserved.
 //
 
+// 添加备注，测试Moxtra与GitHub集成
+
 #import "SDAppDelegate.h"
 #import "SDTableViewController.h"
 
