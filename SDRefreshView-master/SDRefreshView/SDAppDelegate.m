@@ -7,6 +7,7 @@
 //
 
 // 添加备注，测试Moxtra与GitHub集成
+// 执行commit命令，查看Moxtra状态更新
 
 #import "SDAppDelegate.h"
 #import "SDTableViewController.h"
